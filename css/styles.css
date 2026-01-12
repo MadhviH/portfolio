@@ -682,6 +682,10 @@ hr {
             0 0 100px #ffffff,
             -10px 0 100px 10px #6b8e23,
             10px 0 100px 10px #a8b49e;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
     }
 
     @keyframes spin {
