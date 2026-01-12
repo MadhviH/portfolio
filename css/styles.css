@@ -530,6 +530,10 @@ hr {
     text-decoration: underline;
 }
 
+.star{
+    width: 30px;
+}
+
 @media (min-width: 601px) {
     * {
         box-sizing: border-box;
@@ -549,7 +553,7 @@ hr {
     }
 
     .nav-header {
-        position: fixed;
+        position: fixed; 
         top: 0;
         left: 0;
         width: 100%;
