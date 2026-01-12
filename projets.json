@@ -12,7 +12,8 @@
       "Une fois cette étape de tournage validée, j’ai commencé le montage de ma partie fictive avec le logiciel After Effects, ce qui m’a permis de réaliser l’incrustation du personnage et de travailler la colorimétrie afin de créer un univers visuel crédible.",
       "J’ai également travaillé le son sur le logiciel Reaper en intégrant les ambiances et effets nécessaires au court-métrage. Ce projet m’a permis de développer mes compétences en incrustation fond vert, gestion des lumières, montage vidéo et création d’une atmosphère visuelle et sonore cohérente."
     ],
-     "video_url": "apjDH1FLcyk"
+     "video_url": "apjDH1FLcyk",
+     "date":"Octobre 2025 - Janvier 2026"
   },
   {
     "title-projet": "CAMPAGNE INSTITUTIONNELLE - CHENICOURT",
@@ -32,7 +33,8 @@
       { "src": "IMAGES/projets/chenicourt/ordinateur.webp", "alt": "Image 2" },
       { "src": "IMAGES/projets/chenicourt/logo.webp", "alt": "Image 3" },
       { "src": "IMAGES/projets/chenicourt/logo-commune.webp", "alt": "Image 4" }
-    ]
+    ],
+    "date":"Octobre 2025 - Novembre 2025"
   },
   {
     "title-projet": "INTERVIEW - GUILLAUME GOUBERT",
@@ -47,7 +49,8 @@
       "Cette expérience m’a permis de développer plusieurs compétences, notamment la maîtrise des bases du tournage (cadrage, gestion du son et de la lumière), l’organisation d’un tournage en équipe, ainsi que la sélection des séquences pour créer un fil conducteur.",
       "J’ai également approfondi mes connaissances du logiciel Adobe Premiere Pro. Ce projet a été l’occasion parfaite pour moi de me familiariser avec le dérushage, le montage et la gestion du son sur ce logiciel."
     ],
-    "video_url": "chnDcBXIxJE"
+    "video_url": "chnDcBXIxJE",
+    "date":"Octobre 2024 - Décembre 2024"
   },
   {
     "title-projet": "MANZE MORIS - LES RECETTES MAURICIENNES",
@@ -65,7 +68,8 @@
     "project-gallery": [
       { "src": "IMAGES/projets/manzemoris/manze.webp", "alt": "Image 1" },
       { "src": "IMAGES/projets/manzemoris/manze2.webp", "alt": "Image 2" }
-    ]
+    ],
+    "date":"Février 2025 - Juin 2025"
   },
   {
     "title-projet": "PIC EAT - PARTAGE TES ADRESSES ENTRE AMIS !",
@@ -83,7 +87,8 @@
     "project-gallery": [
       { "src": "IMAGES/projets/piceat/piceat.webp", "alt": "Image 1" },
       { "src": "IMAGES/projets/piceat/profil.webp", "alt": "Image 2" }
-    ]
+    ],
+    "date":"Octobre 2025 - Janvier 2026"
   },
   {
     "title-projet": "POETIKARTIER - AMÉLIORATION DE LA COMMUNICATION",
@@ -101,7 +106,8 @@
       { "src": "IMAGES/projets/poetikartier/affiche-even.webp", "alt": "Image 1" },
       { "src": "IMAGES/projets/poetikartier/affiche-en.webp", "alt": "Image 2" },
       { "src": "IMAGES/projets/poetikartier/anniversaire.webp", "alt": "Image 3" }
-    ]
+    ],
+    "date":"Février 2025 - Juin 2025"
   },
   {
     "title-projet": "DISNYZ",
@@ -115,7 +121,8 @@
       "Ensuite,  nous nous sommes occupés de la création des maquettes sur Figma. Nous avons réparti les différentes sections du site afin de désigner nos maquettes. Pour ma part, j’ai pris soin de créer des visuels à partir du logiciel Illustrator afin d’alimenter le design de notre site. Les deux parties réalisées, nous avons alors débuté le code. J’ai pris soin de coder la page d’accueil ainsi que le compteur à la fin du site.",
       "Ce projet a été très intéressant car il m’a permis pour la première fois de gérer des données en code. Bien que le code n’ait pas été facile à réaliser, je suis satisfaite du résultat final."
     ],
-    "project-url": "https://hayrunnisacar.github.io/disnyz/"
+    "project-url": "https://hayrunnisacar.github.io/disnyz/",
+    "date":"Septembre 2025 - Novembre 2025"
   },
   {
     "title-projet": "MA SÉLÉCTION MUSICALE - UN SOIR D'ÉTÉ",
@@ -127,7 +134,8 @@
       "Ma sélection musicale constitue mon premier projet de développement réalisé dans le cadre du BUT MMI. L’objectif était de concevoir un site one-page interactif permettant de partager une playlist, d'écouter des extraits sonores et de consulter des détails complémentaires via des fenêtres modales (popups).",
       "Ce projet a marqué mes débuts avec JavaScript. Même si l'apprentissage de ce langage a été un vrai défi au départ, j'ai réussi à concevoir une interface fonctionnelle. Pour une première réalisation, je suis très satisfaite du site final."
     ],
-    "project-url": "https://hettiarachchige.projetsmmichamps.fr/sae105/"
+    "project-url": "https://hettiarachchige.projetsmmichamps.fr/sae105/",
+    "date":"Octobre 2024 - Décembre 2025"
   },
   {
     "title-projet": "AFFICHE - SENSIBILISATION DE L'IA",
@@ -143,6 +151,7 @@
     "project-gallery": [
       { "src": "IMAGES/projets/IA/IA-poster.webp", "alt": "Image 1" },
       { "src": "IMAGES/projets/IA/poster-IA.webp", "alt": "Image 2" }
-    ]
+    ],
+    "date":"Janvier 2026"
   }
 ]

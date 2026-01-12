@@ -22,7 +22,8 @@ document.addEventListener('DOMContentLoaded', function() {
             }
 
             const descriptionContainer = document.getElementById('projet-description');
-            descriptionContainer.innerHTML = currentProject.presentation.join('<br><br>');
+            const dateHtml = currentProject.date ? `<span class="date-projet">${currentProject.date}</span><br><br>` : '';
+            descriptionContainer.innerHTML = dateHtml + currentProject.presentation.join('<br><br>');
 
             if (currentProject["project-url"]) {
                 descriptionContainer.insertAdjacentHTML('beforeend', `
