@@ -131,7 +131,6 @@
 .title-sticky {
     position: sticky;
     top: 0; 
-    background-color: #ffffff; 
     z-index: 50; 
     padding-top: 15px; 
     padding-bottom: 15px;
@@ -314,11 +313,10 @@ hr{
     
     .title-sticky {
         position: sticky;
-        top: 90px; 
-        background-color: #ffffff; 
+        top: 100px; 
         z-index: 50; 
-        padding-top: 15px; 
-        padding-bottom: 15px;
+        padding-top: 5px; 
+        padding-bottom: 5px;
     }
 
     .composant-desktop {
@@ -446,10 +444,19 @@ hr{
     hr{
          display: none; 
     }
+    
 }
 
 @media (min-width: 1000px) {  
     .gallery-container {
         grid-template-columns: 1fr 1fr; 
+    }
+
+    .title-sticky {
+        position: sticky;
+        top: 100px; 
+        z-index: 50; 
+        padding-top: 5px; 
+        padding-bottom: 5px;
     }
 }

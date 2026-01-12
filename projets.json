@@ -69,7 +69,7 @@
   },
   {
     "title-projet": "PIC EAT - PARTAGE TES ADRESSES ENTRE AMIS !",
-    "category": "developpement",
+    "category": "uiux developpement",
     "image-miniature": "IMAGES/projets/piceat.webp",
     "tags-miniature": ["UI/UX", "DÉVELOPPEMENT"],
     "tags-container": ["UI/UX DESIGN", "HTML", "CSS", "JAVASCRIPT", "BASE DE DONNÉES", "PHP", "BREAK_LINE", "FIGMA", "MAMP"],
