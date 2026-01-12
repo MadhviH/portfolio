@@ -29,8 +29,8 @@ document.addEventListener('DOMContentLoaded', function() {
                     const carte = `
                         <a href="projet.html?id=${i}" class="gallery-item-link">
                             <div class="gallery-item" data-category="${projet.category}">
-                                <img src="${projet["image-miniature"]}" class="project-image"> 
-                                <p class="project-title">${projet["title-projet"]}</p>
+                                <img src="${projet["image-miniature"]}" class="project-image" alt="cover${projet["title-projet"]}"> 
+                                <h2 class="project-title">${projet["title-projet"]}</h2>
                                 <div class="tags-container">${htmlTags}</div>
                             </div>
                         </a>`;

@@ -122,7 +122,11 @@
       "Ce projet a été très intéressant car il m’a permis pour la première fois de gérer des données en code. Bien que le code n’ait pas été facile à réaliser, je suis satisfaite du résultat final."
     ],
     "project-url": "https://hayrunnisacar.github.io/disnyz/",
-    "date":"Septembre 2025 - Novembre 2025"
+    "date":"Septembre 2025 - Novembre 2025",
+    "project-gallery": [
+      { "src": "IMAGES/projets/disnyz/accueil.webp", "alt": "Image 1" },
+      { "src": "IMAGES/projets/disnyz/compteur.webp", "alt": "Image 2" }
+    ]
   },
   {
     "title-projet": "MA SÉLÉCTION MUSICALE - UN SOIR D'ÉTÉ",
@@ -135,13 +139,17 @@
       "Ce projet a marqué mes débuts avec JavaScript. Même si l'apprentissage de ce langage a été un vrai défi au départ, j'ai réussi à concevoir une interface fonctionnelle. Pour une première réalisation, je suis très satisfaite du site final."
     ],
     "project-url": "https://hettiarachchige.projetsmmichamps.fr/sae105/",
-    "date":"Octobre 2024 - Décembre 2025"
+    "date":"Octobre 2024 - Décembre 2025",
+    "project-gallery": [
+      { "src": "IMAGES/projets/smusique/accueil.webp", "alt": "Image 1" },
+      { "src": "IMAGES/projets/selection-musicale.webp", "alt": "Image 2" }
+    ]
   },
   {
     "title-projet": "AFFICHE - SENSIBILISATION DE L'IA",
     "category": "graphisme",
     "image-miniature": "IMAGES/projets/IA-poster.webp",
-    "tags-miniature": ["GRAPHISME"],
+    "tags-miniature": ["GRAPHISME", "REDACTION"],
     "tags-container": ["GRAPHISME", "RÉDACTION", "BREAK_LINE", "PHOTOSHOP", "INDESIGN", "ILLUSTRATOR"],
     "presentation": [
       "Ayant participé à un atelier sur la Bataille de l'IA, nous devions réaliser une affiche sur un thème qui nous plaisait en rapport avec l'IA. Parmis les thèmes proposés sur les enjeux de l'IA générative, un article sur l'outil Palantir m'a tout particulièrement intéressé. Ainsi, à partir de l'article, j'ai premièrement réalisé une image à l'aide du logiciel Photoshop. ",
