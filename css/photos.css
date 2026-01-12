@@ -327,13 +327,14 @@ hr{
         padding-right: 40px; 
     }
 
-    .sidebar{
+    .sidebar {
         width: 30%; 
         padding: 20px 0; 
-        background-color: transparent; 
         display: flex; 
         flex-direction: column; 
-        align-items: center; 
+        justify-content: flex-start; 
+        align-items: center;
+        min-height: 80vh; 
     }
 
     .sidebar p{
@@ -342,21 +343,19 @@ hr{
         margin-top: 40px;
     }
 
-    .filtre-container{
+    .filtre-container {
         font-family: "articulat-cf", sans-serif;
         font-weight: 800;
-        font-style: normal;
         font-size: 1.1rem; 
         position: sticky; 
-        top: 450px;
-        height: auto; 
+        top: 50%; 
+        transform: translateY(-50%);
         width: 100%;
         display: flex;
         flex-direction: column; 
         align-items: center; 
-        justify-content: flex-start; 
+        gap: 15px; 
         background-color: transparent; 
-        border: none;
     }
     
     .filter-link{
