@@ -250,7 +250,9 @@ html, body {
 }
 
 .témoignage1, .témoignage2, .témoignage3 {
-    border: 1px solid #36453b;
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.05);
+    border: 1px solid rgba(0, 0, 0, 0.03);
+    background: #ffffff;
     padding: 10px;
     margin-bottom: 15px;
     border-radius: 18px;
@@ -260,12 +262,14 @@ html, body {
     font-family: "articulat-cf", sans-serif;
     font-weight: 400;
     font-style: italic;
+    color: #36453b;
 }
 
 .name {
-    font-family: "articulat-cf", sans-serif;
+    font-family:'Aesthetic', sans-serif;
     font-weight: 800;
     font-style: normal;
+    color: #36453b;
 }
 
 .filtre-container {
