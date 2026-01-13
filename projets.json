@@ -76,7 +76,7 @@
     "category": "uiux developpement",
     "image-miniature": "IMAGES/projets/piceat.webp",
     "tags-miniature": ["UI/UX", "DÉVELOPPEMENT"],
-    "tags-container": ["UI/UX DESIGN", "HTML", "CSS", "JAVASCRIPT", "BASE DE DONNÉES","WIREFRAMING", "DESIGN SYSTEM", "PHP", "BREAK_LINE", "FIGMA", "MAMP"],
+    "tags-container": ["UI/UX DESIGN", "HTML", "CSS", "JAVASCRIPT", "BASE DE DONNÉES", "WIREFRAMING", "DESIGN SYSTEM", "PHP", "BREAK_LINE", "FIGMA", "MAMP"],
     "presentation": [
      "« À table » était le thème imposé pour ce projet de groupe. Nous devions concevoir un <strong>service complet</strong> en respectant les <strong>méthodes UX</strong>. Après des phases de <strong>brainstorming et de Crazy Eight</strong>, nous avons créé <strong>Pic Eat</strong>, <strong>une application sociale pour partager ses bonnes adresses</strong>.",
       "La <strong>phase d’idéation</strong> a été cruciale : nous avons réalisé des <strong>wireframes</strong> et mené des <strong>tests utilisateurs</strong> pour valider notre concept. Ces retours nous ont permis d'affiner l'expérience avant de passer à <strong>l’UI Design</strong> sur Figma, où j’ai conçu <strong>une partie des maquettes</strong> et créé des <strong>composants réutilisables</strong>.",
