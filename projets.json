@@ -161,5 +161,26 @@
       { "src": "IMAGES/projets/IA/poster-IA.webp", "alt": "Image 2" }
     ],
     "date":"Janvier 2026"
+  },
+  {
+    "title-projet": "MOTION DESIGN",
+    "category": "audiovisuel",
+    "image-miniature": "IMAGES/gif/Insta-Snap-Link.gif",
+    "tags-miniature": ["MOTION DESIGN", "ANIMATION"],
+    "tags-container": ["MOTION DESIGN", "ANIMATION", "BREAK_LINE", "AFTER EFFECT", "ILLUSTRATOR"],
+    "presentation": [
+      "Dans le cadre de nos cours de <strong>Motion Design</strong> en première année de MMI, j’ai pu <strong>découvrir et expérimenter</strong> les bases du logiciel <strong>After Effects</strong>. Afin de nous familiariser avec celui-ci, plusieurs animations d’exemple nous ont été proposées à reproduire. J’ai ainsi pris beaucoup de plaisir à réaliser ces animations."
+    ],
+    "project-gallery": [
+      { "src": "IMAGES/gif/BalleZen.gif", "alt": "Motion 1" },
+      { "src": "IMAGES/gif/calltoaction.gif", "alt": "Motion 2" },
+      { "src": "IMAGES/gif/Compte-hello.gif", "alt": "Motion 3" },
+      { "src": "IMAGES/gif/Compteur.gif", "alt": "Motion 4" },
+      { "src": "IMAGES/gif/Easy-animation.gif", "alt": "Motion 5" },
+      { "src": "IMAGES/gif/ExoVoitureenville.gif", "alt": "Motion 6" },
+      { "src": "IMAGES/gif/Insta-Snap-Link.gif", "alt": "Motion 7" },
+      { "src": "IMAGES/gif/Oeil.gif", "alt": "Motion 8" }
+    ],
+    "date":"Mars 2025"
   }
 ]
