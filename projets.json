@@ -182,5 +182,20 @@
       { "src": "IMAGES/gif/Oeil.gif", "alt": "Motion 8" }
     ],
     "date":"Mars 2025"
+  },
+  {
+    "title-projet": "CRÉATION DE VISUELS",
+    "category": "graphisme uiux",
+    "image-miniature": "IMAGES/gif/3Dbullgr_3-2.gif",
+    "tags-miniature": ["GRAPHISME"],
+    "tags-container": ["GRAPHISME", "BREAK_LINE", "PHOTOSHOP", "ILLUSTRATOR"],
+    "presentation": [
+      "Afin d’apprendre à utiliser le logiciel Photoshop, j’ai réalisé des créations. Créées à partir de tutoriels vus sur les réseaux sociaux, elles m’ont permis de manipuler des éléments sur Photoshop qui m’étaient auparavant inconnus."
+    ],
+    "project-gallery": [
+      { "src": "IMAGES/projets/graphisme/UNIVERSE2.webp", "alt": "Image1" },
+      { "src": "IMAGES/projets/graphisme/3Dbull.webp", "alt": "Image2" },
+      { "src": "IMAGES/projets/graphisme/3.webp", "alt": "Image3" }
+    ]
   }
 ]
