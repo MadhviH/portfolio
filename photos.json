@@ -191,6 +191,90 @@
         "url": "IMAGES/meetmeinthegrass/11.webp",
         "category": "meetmeinthegrass",
         "alt": "Meet me in the grass"
+    }, 
+
+
+    {
+        "url": "IMAGES/gif/beug-lyne.gif",
+        "category": "glitch",
+        "alt": "Glitch"
+    },
+    {
+        "url": "IMAGES/glitch/1.webp",
+        "category": "glitch",
+        "alt": "Glitch"
+    },
+    {
+        "url": "IMAGES/glitch/2.webp",
+       "category": "glitch",
+        "alt": "Glitch"
+    },
+    {
+        "url": "IMAGES/glitch/3.webp",
+        "category": "glitch",
+        "alt": "Glitch"
+    },
+    {
+        "url": "IMAGES/glitch/5.webp",
+        "category": "glitch",
+        "alt": "Glitch"
+    },
+
+
+    {
+        "url": "IMAGES/reussirajd/3.webp",
+        "category": "reussirajd",
+        "alt": "reussirajd"
+    },
+    {
+        "url": "IMAGES/reussirajd/2.webp",
+        "category": "reussirajd",
+        "alt": "reussirajd"
+    },
+    {
+        "url": "IMAGES/reussirajd/1.webp",
+        "category": "reussirajd",
+        "alt": "reussirajd"
+    },
+    {
+        "url": "IMAGES/reussirajd/5.webp",
+        "category": "reussirajd",
+        "alt": "reussirajd"
+    },
+    {
+        "url": "IMAGES/reussirajd/6.webp",
+        "category": "reussirajd",
+        "alt": "reussirajd"
+    },
+    {
+        "url": "IMAGES/reussirajd/7.webp",
+        "category": "reussirajd",
+        "alt": "reussirajd"
+    },
+    {
+        "url": "IMAGES/reussirajd/8.webp",
+        "category": "reussirajd",
+        "alt": "reussirajd"
+    },
+    {
+        "url": "IMAGES/reussirajd/9.webp",
+        "category": "reussirajd",
+        "alt": "reussirajd"
+    },
+    {
+        "url": "IMAGES/reussirajd/10.webp",
+        "category": "reussirajd",
+        "alt": "reussirajd"
+    },
+    {
+        "url": "IMAGES/reussirajd/11.webp",
+        "category": "reussirajd",
+        "alt": "reussirajd"
+    },
+    {
+        "url": "IMAGES/reussirajd/4.webp",
+        "category": "reussirajd",
+        "alt": "reussirajd"
     }
     
 ]

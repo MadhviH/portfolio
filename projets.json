@@ -195,7 +195,23 @@
     "project-gallery": [
       { "src": "IMAGES/projets/graphisme/UNIVERSE2.webp", "alt": "Image1" },
       { "src": "IMAGES/projets/graphisme/3Dbull.webp", "alt": "Image2" },
-      { "src": "IMAGES/projets/graphisme/3.webp", "alt": "Image3" }
+      { "src": "IMAGES/projets/graphisme/3.webp", "alt": "Image3" },
+      { "src": "IMAGES/projets/graphisme/universeffect.webp", "alt": "Image4" }
+    ]
+  }, 
+  {
+    "title-projet": "MOTION DESIGN - GLITCHGATE",
+    "category": "audiovisuel",
+    "image-miniature": "IMAGES/gif/glitch_motion.gif",
+    "tags-miniature": ["MOTION DESIGN", "PHOTOGRAPHIE"],
+    "tags-container": ["MOTION DESIGN", "PHOTOGRAPHIE", "ANIMATION", "BREAK_LINE", "AFTER EFFECT", "PHOTOSHOP"],
+    "presentation": [
+      "Ayant déjà eu l’occasion d’utiliser After Effects, j’ai souhaité réaliser une animation à partir de photographies que j’avais moi-même prises. Pour cela, j’ai retravaillé l’une de mes images sur Photoshop en créant manuellement un effet miroir, afin d’en modifier la composition et de renforcer son impact visuel. Je l’ai ensuite animée sur After Effects pour donner naissance à une création à l’atmosphère particulière et sombre."
+    ],
+    "project-gallery": [
+      { "src": "IMAGES/projets/glitch_project/base.webp", "alt": "Image1" },
+      { "src": "IMAGES/gif/glitch_motion.gif", "alt": "Image2" },
+      { "src": "IMAGES/gif/beug-lyne.gif", "alt": "Image3" }
     ]
   }
 ]
