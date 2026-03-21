@@ -1,5 +1,21 @@
 [
   {
+    "title-projet": "INTERVIEW - GUILLAUME GOUBERT",
+    "category": "audiovisuel",
+    "image-miniature": "IMAGES/projets/interview.webp",
+    "tags-miniature": ["AUDIOVISUEL", "TOURNAGE"],
+    "tags-container": ["AUDIOVISUEL", "TOURNAGE", "LUMIÈRE", "SON", "BREAK_LINE", "PREMIÈRE PRO"],
+    "presentation": [
+      "Dans le cadre d’un projet scolaire lors de ma première année en BUT MMI (Métiers du Multimédia et de l’Internet), nous avons eu l’occasion, en groupe, de réaliser une <strong>interview d’un journaliste</strong>. Nous devions trouver un professionnel, organiser le tournage et assurer l’ensemble de la production. J’ai ainsi participé à la <strong>prise de contact, au tournage et au montage</strong>.",
+      "Ce projet m’a permis de découvrir les conditions réelles d’un tournage. En effet, j’ai dû apprendre à gérer correctement le <strong>son</strong>, la <strong>lumière</strong> et le <strong>cadrage</strong>. Une fois le tournage terminé, j’ai assuré le <strong>montage de la vidéo</strong>. L’objectif était de produire une interview d’environ cinq minutes.",
+      "Ayant enregistré près d’une heure de rushs, il a fallu sélectionner les moments les plus pertinents et <strong>construire un fil conducteur</strong> cohérent tout au long de l’interview.",
+      "Cette expérience m’a permis de développer plusieurs compétences, notamment la <strong>maîtrise des bases du tournage (cadrage, gestion du son et de la lumière)</strong>, <strong>l’organisation d’un tournage en équipe</strong> ainsi que la <strong>sélection des séquences</strong> pour créer un <strong>fil conducteur</strong>.",
+      "J’ai également approfondi mes connaissances du logiciel <strong>Adobe Premiere Pro</strong>. Ce projet a été l’occasion parfaite pour moi de me familiariser avec le <strong>dérushage</strong>, le <strong>montage</strong> et la <strong>gestion du son sur ce logiciel</strong>."
+    ],
+    "video_url": "chnDcBXIxJE",
+    "date":"Octobre 2024 - Décembre 2024"
+  },
+  {
     "title-projet": "ABANDONNÉE - COURT MÉTRAGE",
     "category": "audiovisuel",
     "image-miniature": "IMAGES/projets/abandonnée.webp",
@@ -14,6 +30,25 @@
     ],
      "video_url": "apjDH1FLcyk",
      "date":"Octobre 2025 - Janvier 2026"
+  },
+  {
+    "title-projet": "POETIKARTIER - AMÉLIORATION DE LA COMMUNICATION",
+    "category": "graphisme",
+    "image-miniature": "IMAGES/projets/poetikartier.webp",
+    "tags-miniature": ["GRAPHISME", "WORDPRESS"],
+    "tags-container": ["GRAPHISME", "IDENTITÉ VISUELLE", "WORDPRESS", "STRATÉGIE DE COMMUNICATION", "BREAK_LINE", "FIGMA", "INDESIGN", "PHOTOSHOP", "WORDPRESS"],
+    "presentation": [
+      "Lors du deuxième semestre de ma première année de BUT MMI, nous avons sélectionné <strong>Poetikartier</strong>, une association promouvant <strong>l’art des jeunes issus de banlieue</strong>, afin de repenser intégralement sa <strong>communication</strong> jugée insuffisante.",
+      "Ce projet m’a permis de concevoir une <strong>identité visuelle</strong> forte et urbaine. J'ai élaboré une <strong>charte graphique</strong> cohérente sur <strong>Illustrator</strong> et <strong>InDesign</strong>, puis réalisé des <strong>affiches événementielles</strong> ainsi que des <strong>maquettes de site web</strong> sur <strong>Figma</strong>. Pour la <strong>partie visuelle</strong> et la <strong>retouche d'images</strong>, j'ai principalement utilisé <strong>Photoshop</strong>.",
+      "Au-delà de la <strong>création graphique</strong>, j'ai également participé à la <strong>stratégie de communication</strong> en rédigeant un <strong>dossier de presse complet</strong>. Cette étape a été essentielle pour structurer le message de l'association et comprendre les enjeux de la communication écrite et institutionnelle.",
+      "Cette expérience a été un pilier dans mon apprentissage de la <strong>direction artistique</strong> et du <strong>design graphique</strong>, me permettant de jongler entre <strong>supports print et numériques</strong> tout en respectant un <strong>univers artistique spécifique</strong>."
+    ],
+    "project-gallery": [
+      { "src": "IMAGES/projets/poetikartier/affiche-even.webp", "alt": "Image 1" },
+      { "src": "IMAGES/projets/poetikartier/affiche-en.webp", "alt": "Image 2" },
+      { "src": "IMAGES/projets/poetikartier/anniversaire.webp", "alt": "Image 3" }
+    ],
+    "date":"Février 2025 - Juin 2025"
   },
   {
     "title-projet": "CAMPAGNE INSTITUTIONNELLE - CHENICOURT",
@@ -37,113 +72,24 @@
     "date":"Octobre 2025 - Novembre 2025"
   },
   {
-    "title-projet": "INTERVIEW - GUILLAUME GOUBERT",
-    "category": "audiovisuel",
-    "image-miniature": "IMAGES/projets/interview.webp",
-    "tags-miniature": ["AUDIOVISUEL", "TOURNAGE"],
-    "tags-container": ["AUDIOVISUEL", "TOURNAGE", "LUMIÈRE", "SON", "BREAK_LINE", "PREMIÈRE PRO"],
-    "presentation": [
-      "Dans le cadre d’un projet scolaire lors de ma première année en BUT MMI (Métiers du Multimédia et de l’Internet), nous avons eu l’occasion, en groupe, de réaliser une <strong>interview d’un journaliste</strong>. Nous devions trouver un professionnel, organiser le tournage et assurer l’ensemble de la production. J’ai ainsi participé à la <strong>prise de contact, au tournage et au montage</strong>.",
-      "Ce projet m’a permis de découvrir les conditions réelles d’un tournage. En effet, j’ai dû apprendre à gérer correctement le <strong>son</strong>, la <strong>lumière</strong> et le <strong>cadrage</strong>. Une fois le tournage terminé, j’ai assuré le <strong>montage de la vidéo</strong>. L’objectif était de produire une interview d’environ cinq minutes.",
-      "Ayant enregistré près d’une heure de rushs, il a fallu sélectionner les moments les plus pertinents et <strong>construire un fil conducteur</strong> cohérent tout au long de l’interview.",
-      "Cette expérience m’a permis de développer plusieurs compétences, notamment la <strong>maîtrise des bases du tournage (cadrage, gestion du son et de la lumière)</strong>, <strong>l’organisation d’un tournage en équipe</strong> ainsi que la <strong>sélection des séquences</strong> pour créer un <strong>fil conducteur</strong>.",
-      "J’ai également approfondi mes connaissances du logiciel <strong>Adobe Premiere Pro</strong>. Ce projet a été l’occasion parfaite pour moi de me familiariser avec le <strong>dérushage</strong>, le <strong>montage</strong> et la <strong>gestion du son sur ce logiciel</strong>."
-    ],
-    "video_url": "chnDcBXIxJE",
-    "date":"Octobre 2024 - Décembre 2024"
-  },
-  {
-    "title-projet": "MANZE MORIS - LES RECETTES MAURICIENNES",
-    "category": "uiux developpement",
-    "image-miniature": "IMAGES/projets/MANZEMORIS.webp",
-    "tags-miniature": ["UI DESIGN", "DÉVELOPPEMENT"],
-    "tags-container": ["UI DESIGN", "HTML", "CSS", "JAVASCRIPT", "BASE DE DONNÉES", "PHP", "BREAK_LINE", "FIGMA", "MAMP"],
-    "presentation": [
-     "Entre février et juin 2025, j’ai réalisé individuellement un projet scolaire consistant à créer un site web dynamique basé sur une <strong>base de données</strong>. Libre dans le choix du thème, j’ai décidé de concevoir Manze Moris, un site dédié aux <strong>recettes de l’Île Maurice</strong>.",
-      "Le projet a débuté par la <strong>conception de maquettes</strong> sur <strong>Figma</strong> pour définir <strong>l'identité visuelle</strong>. J'ai ensuite structuré la <strong>base de données</strong> via <strong>phpMyAdmin</strong> et développé le site en <strong>PHP</strong>, utilisant des <strong>requêtes SQL</strong> pour récupérer et <strong>afficher dynamiquement</strong> les contenus des recettes.",
-      "Ce projet a également été l’opportunité d'apprendre à <strong>gérer des formulaires utilisateur</strong> pour l'insertion de données. Pour protéger l'accès, j'ai mis en place un formulaire de sécurité à l'entrée de la page de gestion afin de sécuriser les interactions avec la base de données.",
-      "Enfin, j'ai peaufiné la stylisation en CSS pour garantir une fidélité totale aux maquettes initiales. Ce travail m’a permis de <strong>surmonter mes appréhensions initiales vis-à-vis du PHP</strong>, de comprendre la puissance de la gestion de données et de renforcer ma méthodologie de travail en autonomie."
-    ],
-    "project-url": "https://hettiarachchige.projetsmmichamps.fr/webinventory/",
-    "project-gallery": [
-      { "src": "IMAGES/projets/manzemoris/manze.webp", "alt": "Image 1" },
-      { "src": "IMAGES/projets/manzemoris/manze2.webp", "alt": "Image 2" }
-    ],
-    "date":"Février 2025 - Juin 2025"
-  },
-  {
-    "title-projet": "PIC EAT - PARTAGE TES ADRESSES ENTRE AMIS !",
-    "category": "uiux developpement",
-    "image-miniature": "IMAGES/projets/piceat.webp",
-    "tags-miniature": ["UI/UX", "DÉVELOPPEMENT"],
-    "tags-container": ["UI/UX DESIGN", "HTML", "CSS", "JAVASCRIPT", "BASE DE DONNÉES", "WIREFRAMING", "DESIGN SYSTEM", "PHP", "BREAK_LINE", "FIGMA", "MAMP"],
-    "presentation": [
-     "« À table » était le thème proposé pour ce projet de groupe. Nous devions concevoir un <strong>service complet</strong> en respectant les <strong>méthodes UX</strong>. Après des phases de <strong>brainstorming et de Crazy Eight</strong>, nous avons créé <strong>Pic Eat</strong>, <strong>une application sociale pour partager ses bonnes adresses</strong>.",
-      "La <strong>phase d’idéation</strong> a été cruciale : nous avons réalisé des <strong>wireframes</strong> et mené des <strong>tests utilisateurs</strong> pour valider notre concept. Ces retours nous ont permis d'affiner l'expérience avant de passer à <strong>l’UI Design</strong> sur Figma, où j’ai conçu <strong>une partie des maquettes</strong> et créé des <strong>composants réutilisables</strong>.",
-      "<strong>L'identité visuelle</strong> s'inspire des codes des réseaux sociaux modernes, avec un contraste fort entre le noir, le blanc et un jaune électrique. J'ai ensuite participé au <strong>développement front-end</strong> en intégrant ces interfaces à l'aide de <strong>CSS</strong> et <strong>JavaScript</strong>.",
-      "Ce projet a été particulièrement formateur, me permettant de créer un <strong>Design System complet</strong> sur <strong>Figma</strong> et d'apprendre à gérer un projet de A à Z en équipe. J'y ai renforcé ma méthodologie de travail, <strong>ma gestion des échéances</strong> et mes <strong>compétences techniques en intégration web</strong>."
-    ],
-    "project-url": "https://piceat.fr",
-    "project-gallery": [
-      { "src": "IMAGES/projets/piceat/piceat.webp", "alt": "Image 1" },
-      { "src": "IMAGES/projets/piceat/profil.webp", "alt": "Image 2" }
-    ],
-    "date":"Octobre 2025 - Janvier 2026"
-  },
-  {
-    "title-projet": "POETIKARTIER - AMÉLIORATION DE LA COMMUNICATION",
+    "title-projet": "ÉVÈNEMENT - JPO MMI",
     "category": "graphisme uiux",
-    "image-miniature": "IMAGES/projets/poetikartier.webp",
-    "tags-miniature": ["GRAPHISME", "UI DESIGN", "WORDPRESS"],
-    "tags-container": ["UI DESIGN", "GRAPHISME", "IDENTITÉ VISUELLE", "WORDPRESS", "STRATÉGIE DE COMMUNICATION", "BREAK_LINE", "FIGMA", "INDESIGN", "PHOTOSHOP", "WORDPRESS"],
+    "image-miniature": "IMAGES/projets/jpo_mmi/mmi.webp",
+    "tags-miniature": ["GRAPHISME", "UI DESIGN"],
+    "tags-container": ["UI DESIGN", "GRAPHISME", "BREAK_LINE", "FIGMA", "ILLUSTRATOR", "INDESIGN", "PHOTOSHOP"],
     "presentation": [
-      "Lors du deuxième semestre de ma première année de BUT MMI, nous avons sélectionné <strong>Poetikartier</strong>, une association promouvant <strong>l’art des jeunes issus de banlieue</strong>, afin de repenser intégralement sa <strong>communication</strong> jugée insuffisante.",
-      "Ce projet m’a permis de concevoir une <strong>identité visuelle</strong> forte et urbaine. J'ai élaboré une <strong>charte graphique</strong> cohérente sur <strong>Illustrator</strong> et <strong>InDesign</strong>, puis réalisé des <strong>affiches événementielles</strong> ainsi que des <strong>maquettes de site web</strong> sur <strong>Figma</strong>. Pour la <strong>partie visuelle</strong> et la <strong>retouche d'images</strong>, j'ai principalement utilisé <strong>Photoshop</strong>.",
-      "Au-delà de la <strong>création graphique</strong>, j'ai également participé à la <strong>stratégie de communication</strong> en rédigeant un <strong>dossier de presse complet</strong>. Cette étape a été essentielle pour structurer le message de l'association et comprendre les enjeux de la communication écrite et institutionnelle.",
-      "Cette expérience a été un pilier dans mon apprentissage de la <strong>direction artistique</strong> et du <strong>design graphique</strong>, me permettant de jongler entre <strong>supports print et numériques</strong> tout en respectant un <strong>univers artistique spécifique</strong>."
+      "La journée portes ouvertes approchant à grands pas, nous avons été chargés de réaliser des affiches afin de promouvoir notre formation : le <strong>BUT Métiers du Multimédia et de l’Internet</strong>. Nous avons également conçu des maquettes de site présentant la formation, sous la forme d’un site vitrine.",
+      "J’ai créé plusieurs moodboards et réalisé des maquettes d’application destinées aux étudiants en MMI. L’objectif de cette application était de leur permettre d’accéder facilement à leur emploi du temps, mais aussi à une messagerie en ligne afin d’échanger avec des professeurs et/ou d’autres étudiants.",
+      "Afin de rafraîchir l’identité visuelle de MMI, j’ai également conçu un nouveau logo dans lequel les lettres « MMI » sont pleinement lisibles.",
+      "J’ai particulièrement aimé travailler sur ce projet, car nous avons pu imaginer des designs qui représentaient vraiment l’univers de MMI. Ce projet m’a permis de m’exprimer et d’explorer davantage des outils comme Figma, Photoshop, InDesign et Illustrator.",
+      "<strong>Accédez aux prototypes Figma en cliquant sur le lien de la dernière page du dossier.</strong>"
     ],
+    "project-url":"IMAGES/projets/jpo_mmi/DOSSIER_MMI.pdf",
     "project-gallery": [
-      { "src": "IMAGES/projets/poetikartier/affiche-even.webp", "alt": "Image 1" },
-      { "src": "IMAGES/projets/poetikartier/affiche-en.webp", "alt": "Image 2" },
-      { "src": "IMAGES/projets/poetikartier/anniversaire.webp", "alt": "Image 3" }
+      { "src": "IMAGES/projets/jpo_mmi/logos.webp", "alt": "Image 1" },
+      { "src": "IMAGES/projets/jpo_mmi/affiche.webp", "alt": "Image 2" }
     ],
-    "date":"Février 2025 - Juin 2025"
-  },
-  {
-    "title-projet": "DISNYZ",
-    "category": "developpement",
-    "image-miniature": "IMAGES/projets/disnyz.webp",
-    "tags-miniature": ["UI DESIGN", "DÉVELOPPEMENT", "JAVASCRIPT"],
-    "tags-container": ["UI DESIGN", "DÉVELOPPEMENT", "JAVASCRIPT", "BREAK_LINE", "FIGMA", "ILLUSTRATOR", "VSCODE"],
-    "presentation": [
-      "L’objectif de ce projet était de <strong>recenser des données</strong> sur un thème choisi afin d’en créer des <strong>graphiques dynamiques</strong>. Pour cela, par groupe de 3, nous avons décidé de choisir le <strong>thème de Disney</strong>, et plus précisément les données sur <strong>les meilleurs box-office des films Disney.</strong>",
-      "Ce projet a été réalisé en plusieurs étapes, premièrement, <strong>trouver et trier des données</strong>. Les données ont été récupérées à l’aide de <strong>Wikidata Multisearch</strong>. Toutes les données récoltées ont été transférées dans un <strong>tableau Google Sheet</strong> puis transformées en un <strong>JSON</strong>.",
-      "Ensuite,  nous nous sommes occupés de la <strong>création des maquettes sur Figma</strong>. Nous avons réparti les différentes sections du site afin de désigner nos maquettes. Pour ma part, j’ai pris soin de créer des visuels à partir du logiciel <strong>Illustrator</strong> afin d’alimenter le design de notre site. Les deux parties réalisées, nous avons alors débuté le code. <strong>J’ai pris soin de coder la page d’accueil ainsi que le compteur à la fin du site</strong>.",
-      "Ce projet a été très intéressant car il m’a permis pour la première fois de <strong>gérer des données en code</strong>. Bien que le code n’ait pas été facile à réaliser, je suis satisfaite du résultat final."
-    ],
-    "project-url": "https://hayrunnisacar.github.io/disnyz/",
-    "date":"Septembre 2025 - Novembre 2025",
-    "project-gallery": [
-      { "src": "IMAGES/projets/disnyz/accueil.webp", "alt": "Image 1" },
-      { "src": "IMAGES/projets/disnyz/compteur.webp", "alt": "Image 2" }
-    ]
-  },
-  {
-    "title-projet": "MA SÉLÉCTION MUSICALE - UN SOIR D'ÉTÉ",
-    "category": "developpement",
-    "image-miniature": "IMAGES/projets/selection-musicale.webp",
-    "tags-miniature": ["DÉVELOPPEMENT", "JAVASCRIPT"],
-    "tags-container": ["DÉVELOPPEMENT", "JAVASCRIPT", "BREAK_LINE", "VSCODE"],
-    "presentation": [
-      "Ma sélection musicale constitue <strong>mon premier projet de développement</strong> réalisé dans le cadre du BUT MMI. L’objectif était de concevoir un <strong>site one-page interactif</strong> permettant de partager une playlist, d'écouter des extraits sonores et de consulter des détails complémentaires via des fenêtres modales (popups).",
-      "Ce projet a marqué mes <strong>débuts avec JavaScript</strong>. Même si l'apprentissage de ce langage a été un vrai défi au départ, j'ai réussi à concevoir une interface fonctionnelle. Pour une première réalisation, je suis très satisfaite du site final."
-    ],
-    "project-url": "https://hettiarachchige.projetsmmichamps.fr/sae105/",
-    "date":"Octobre 2024 - Décembre 2025",
-    "project-gallery": [
-      { "src": "IMAGES/projets/smusique/accueil.webp", "alt": "Image 1" },
-      { "src": "IMAGES/projets/selection-musicale.webp", "alt": "Image 2" }
-    ]
+    "date":"Janvier 2026 - Février 2026"
   },
   {
     "title-projet": "AFFICHE - SENSIBILISATION DE L'IA",
@@ -161,6 +107,21 @@
       { "src": "IMAGES/projets/IA/poster-IA.webp", "alt": "Image 2" }
     ],
     "date":"Janvier 2026"
+  },
+  {
+    "title-projet": "MOTION DESIGN - GLITCHGATE",
+    "category": "audiovisuel",
+    "image-miniature": "IMAGES/gif/glitch_motion.gif",
+    "tags-miniature": ["MOTION DESIGN", "PHOTOGRAPHIE"],
+    "tags-container": ["MOTION DESIGN", "PHOTOGRAPHIE", "ANIMATION", "BREAK_LINE", "AFTER EFFECT", "PHOTOSHOP"],
+    "presentation": [
+      "Ayant déjà eu l’occasion d’utiliser After Effects, j’ai souhaité réaliser une animation à partir de photographies que j’avais moi-même prises. Pour cela, j’ai retravaillé l’une de mes images sur Photoshop en créant manuellement un effet miroir, afin d’en modifier la composition et de renforcer son impact visuel. Je l’ai ensuite animée sur After Effects pour donner naissance à une création à l’atmosphère particulière et sombre."
+    ],
+    "project-gallery": [
+      { "src": "IMAGES/projets/glitch_project/base.webp", "alt": "Image1" },
+      { "src": "IMAGES/gif/glitch_motion.gif", "alt": "Image2" },
+      { "src": "IMAGES/gif/beug-lyne.gif", "alt": "Image3" }
+    ]
   },
   {
     "title-projet": "MOTION DESIGN",
@@ -185,7 +146,7 @@
   },
   {
     "title-projet": "CRÉATION DE VISUELS",
-    "category": "graphisme uiux",
+    "category": "graphisme",
     "image-miniature": "IMAGES/gif/3Dbullgr_3-2.gif",
     "tags-miniature": ["GRAPHISME"],
     "tags-container": ["GRAPHISME", "BREAK_LINE", "PHOTOSHOP", "ILLUSTRATOR"],
@@ -195,23 +156,81 @@
     "project-gallery": [
       { "src": "IMAGES/projets/graphisme/UNIVERSE2.webp", "alt": "Image1" },
       { "src": "IMAGES/projets/graphisme/3Dbull.webp", "alt": "Image2" },
-      { "src": "IMAGES/projets/graphisme/3.webp", "alt": "Image3" },
       { "src": "IMAGES/projets/graphisme/universeffect.webp", "alt": "Image4" }
     ]
   }, 
   {
-    "title-projet": "MOTION DESIGN - GLITCHGATE",
-    "category": "audiovisuel",
-    "image-miniature": "IMAGES/gif/glitch_motion.gif",
-    "tags-miniature": ["MOTION DESIGN", "PHOTOGRAPHIE"],
-    "tags-container": ["MOTION DESIGN", "PHOTOGRAPHIE", "ANIMATION", "BREAK_LINE", "AFTER EFFECT", "PHOTOSHOP"],
+    "title-projet": "PIC EAT - PARTAGE TES ADRESSES ENTRE AMIS !",
+    "category": "uiux developpement",
+    "image-miniature": "IMAGES/projets/piceat.webp",
+    "tags-miniature": ["UI/UX", "DÉVELOPPEMENT"],
+    "tags-container": ["UI/UX DESIGN", "HTML", "CSS", "JAVASCRIPT", "BASE DE DONNÉES", "WIREFRAMING", "DESIGN SYSTEM", "PHP", "BREAK_LINE", "FIGMA", "MAMP"],
     "presentation": [
-      "Ayant déjà eu l’occasion d’utiliser After Effects, j’ai souhaité réaliser une animation à partir de photographies que j’avais moi-même prises. Pour cela, j’ai retravaillé l’une de mes images sur Photoshop en créant manuellement un effet miroir, afin d’en modifier la composition et de renforcer son impact visuel. Je l’ai ensuite animée sur After Effects pour donner naissance à une création à l’atmosphère particulière et sombre."
+     "« À table » était le thème proposé pour ce projet de groupe. Nous devions concevoir un <strong>service complet</strong> en respectant les <strong>méthodes UX</strong>. Après des phases de <strong>brainstorming et de Crazy Eight</strong>, nous avons créé <strong>Pic Eat</strong>, <strong>une application sociale pour partager ses bonnes adresses</strong>.",
+      "La <strong>phase d’idéation</strong> a été cruciale : nous avons réalisé des <strong>wireframes</strong> et mené des <strong>tests utilisateurs</strong> pour valider notre concept. Ces retours nous ont permis d'affiner l'expérience avant de passer à <strong>l’UI Design</strong> sur Figma, où j’ai conçu <strong>une partie des maquettes</strong> et créé des <strong>composants réutilisables</strong>.",
+      "<strong>L'identité visuelle</strong> s'inspire des codes des réseaux sociaux modernes, avec un contraste fort entre le noir, le blanc et un jaune électrique. J'ai ensuite participé au <strong>développement front-end</strong> en intégrant ces interfaces à l'aide de <strong>CSS</strong> et <strong>JavaScript</strong>.",
+      "Ce projet a été particulièrement formateur, me permettant de créer un <strong>Design System complet</strong> sur <strong>Figma</strong> et d'apprendre à gérer un projet de A à Z en équipe. J'y ai renforcé ma méthodologie de travail, <strong>ma gestion des échéances</strong> et mes <strong>compétences techniques en intégration web</strong>."
     ],
+    "project-url": "https://piceat.fr",
     "project-gallery": [
-      { "src": "IMAGES/projets/glitch_project/base.webp", "alt": "Image1" },
-      { "src": "IMAGES/gif/glitch_motion.gif", "alt": "Image2" },
-      { "src": "IMAGES/gif/beug-lyne.gif", "alt": "Image3" }
+      { "src": "IMAGES/projets/piceat/piceat.webp", "alt": "Image 1" },
+      { "src": "IMAGES/projets/piceat/profil.webp", "alt": "Image 2" }
+    ],
+    "date":"Octobre 2025 - Janvier 2026"
+  },
+  {
+    "title-projet": "DISNYZ",
+    "category": "developpement",
+    "image-miniature": "IMAGES/projets/disnyz.webp",
+    "tags-miniature": ["UI DESIGN", "DÉVELOPPEMENT", "JAVASCRIPT"],
+    "tags-container": ["UI DESIGN", "DÉVELOPPEMENT", "JAVASCRIPT", "BREAK_LINE", "FIGMA", "ILLUSTRATOR", "VSCODE"],
+    "presentation": [
+      "L’objectif de ce projet était de <strong>recenser des données</strong> sur un thème choisi afin d’en créer des <strong>graphiques dynamiques</strong>. Pour cela, par groupe de 3, nous avons décidé de choisir le <strong>thème de Disney</strong>, et plus précisément les données sur <strong>les meilleurs box-office des films Disney.</strong>",
+      "Ce projet a été réalisé en plusieurs étapes, premièrement, <strong>trouver et trier des données</strong>. Les données ont été récupérées à l’aide de <strong>Wikidata Multisearch</strong>. Toutes les données récoltées ont été transférées dans un <strong>tableau Google Sheet</strong> puis transformées en un <strong>JSON</strong>.",
+      "Ensuite,  nous nous sommes occupés de la <strong>création des maquettes sur Figma</strong>. Nous avons réparti les différentes sections du site afin de désigner nos maquettes. Pour ma part, j’ai pris soin de créer des visuels à partir du logiciel <strong>Illustrator</strong> afin d’alimenter le design de notre site. Les deux parties réalisées, nous avons alors débuté le code. <strong>J’ai pris soin de coder la page d’accueil ainsi que le compteur à la fin du site</strong>.",
+      "Ce projet a été très intéressant car il m’a permis pour la première fois de <strong>gérer des données en code</strong>. Bien que le code n’ait pas été facile à réaliser, je suis satisfaite du résultat final."
+    ],
+    "project-url": "https://hayrunnisacar.github.io/disnyz/",
+    "date":"Septembre 2025 - Novembre 2025",
+    "project-gallery": [
+      { "src": "IMAGES/projets/disnyz/accueil.webp", "alt": "Image 1" },
+      { "src": "IMAGES/projets/disnyz/compteur.webp", "alt": "Image 2" }
+    ]
+  },
+  {
+    "title-projet": "MANZE MORIS - LES RECETTES MAURICIENNES",
+    "category": "uiux developpement",
+    "image-miniature": "IMAGES/projets/MANZEMORIS.webp",
+    "tags-miniature": ["UI DESIGN", "DÉVELOPPEMENT"],
+    "tags-container": ["UI DESIGN", "HTML", "CSS", "JAVASCRIPT", "BASE DE DONNÉES", "PHP", "BREAK_LINE", "FIGMA", "MAMP"],
+    "presentation": [
+     "Entre février et juin 2025, j’ai réalisé individuellement un projet scolaire consistant à créer un site web dynamique basé sur une <strong>base de données</strong>. Libre dans le choix du thème, j’ai décidé de concevoir Manze Moris, un site dédié aux <strong>recettes de l’Île Maurice</strong>.",
+      "Le projet a débuté par la <strong>conception de maquettes</strong> sur <strong>Figma</strong> pour définir <strong>l'identité visuelle</strong>. J'ai ensuite structuré la <strong>base de données</strong> via <strong>phpMyAdmin</strong> et développé le site en <strong>PHP</strong>, utilisant des <strong>requêtes SQL</strong> pour récupérer et <strong>afficher dynamiquement</strong> les contenus des recettes.",
+      "Ce projet a également été l’opportunité d'apprendre à <strong>gérer des formulaires utilisateur</strong> pour l'insertion de données. Pour protéger l'accès, j'ai mis en place un formulaire de sécurité à l'entrée de la page de gestion afin de sécuriser les interactions avec la base de données.",
+      "Enfin, j'ai peaufiné la stylisation en CSS pour garantir une fidélité totale aux maquettes initiales. Ce travail m’a permis de <strong>surmonter mes appréhensions initiales vis-à-vis du PHP</strong>, de comprendre la puissance de la gestion de données et de renforcer ma méthodologie de travail en autonomie."
+    ],
+    "project-url": "https://hettiarachchige.projetsmmichamps.fr/webinventory/",
+    "project-gallery": [
+      { "src": "IMAGES/projets/manzemoris/manze.webp", "alt": "Image 1" },
+      { "src": "IMAGES/projets/manzemoris/manze2.webp", "alt": "Image 2" }
+    ],
+    "date":"Février 2025 - Juin 2025"
+  },
+  {
+    "title-projet": "MA SÉLÉCTION MUSICALE - UN SOIR D'ÉTÉ",
+    "category": "developpement",
+    "image-miniature": "IMAGES/projets/selection-musicale.webp",
+    "tags-miniature": ["DÉVELOPPEMENT", "JAVASCRIPT"],
+    "tags-container": ["DÉVELOPPEMENT", "JAVASCRIPT", "BREAK_LINE", "VSCODE"],
+    "presentation": [
+      "Ma sélection musicale constitue <strong>mon premier projet de développement</strong> réalisé dans le cadre du BUT MMI. L’objectif était de concevoir un <strong>site one-page interactif</strong> permettant de partager une playlist, d'écouter des extraits sonores et de consulter des détails complémentaires via des fenêtres modales (popups).",
+      "Ce projet a marqué mes <strong>débuts avec JavaScript</strong>. Même si l'apprentissage de ce langage a été un vrai défi au départ, j'ai réussi à concevoir une interface fonctionnelle. Pour une première réalisation, je suis très satisfaite du site final."
+    ],
+    "project-url": "https://hettiarachchige.projetsmmichamps.fr/sae105/",
+    "date":"Octobre 2024 - Décembre 2025",
+    "project-gallery": [
+      { "src": "IMAGES/projets/smusique/accueil.webp", "alt": "Image 1" },
+      { "src": "IMAGES/projets/selection-musicale.webp", "alt": "Image 2" }
     ]
   }
 ]
