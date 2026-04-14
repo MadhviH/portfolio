@@ -209,6 +209,19 @@ html, body {
     font-style: normal;
 }
 
+.container-certif {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin: 20px 0;
+}
+
+.certif_opquast {
+    width: 200px;
+    height: auto;
+}
+
 .container-button, .pic-container {
     display: flex;
     justify-content: center;
@@ -644,6 +657,11 @@ hr {
         gap: 40px;
         width: 100%;
         padding-top: 100px;
+    }
+
+    .container-certif {
+        justify-content: flex-start; 
+        padding-left: 20px; 
     }
 
     .intro-text {
