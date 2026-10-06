@@ -232,5 +232,22 @@
       { "src": "IMAGES/projets/smusique/accueil.webp", "alt": "Image 1" },
       { "src": "IMAGES/projets/selection-musicale.webp", "alt": "Image 2" }
     ]
+  },
+  {
+    "title-projet": "POST ACTU - TALKTABOU.MEDIA",
+    "category": "graphisme",
+    "image-miniature": "IMAGES/projets/ttm/couv.webp",
+    "tags-miniature": ["GRAPHISME", "RESEAUX SOCIAUX"],
+    "tags-container": ["GRAPHISME", "BREAK_LINE", "CANVA"],
+    "presentation": [
+      "Bénévole au sein de l'association <strong>@TalkTabou.media</strong> sur Instagram, j'occupe actuellement le poste <strong>d'Assistante directrice Artistique</strong>. Je suis donc chargée de réaliser des posts cohérents avec l'image de l'association. Je me réfère donc à l'identité visuelle de la marque, à la charte graphique afin de respecter leur image.",
+      "Nous souhaitons désormais améliorer notre présence sur les réseaux sociaux. Je suis donc en charge de nouveaux projets qui arriveront bientôt sur  <strong>@TalkTabou.media</strong> et sur mon portfolio."
+    ],
+    "project-url": "https://www.instagram.com/talktabou.media/",
+    "project-gallery": [
+      { "src": "IMAGES/projets/ttm/feed.webp", "alt": "Image1" },
+      { "src": "IMAGES/projets/ttm/exemple_post_feed.webp", "alt": "Image2" },
+      { "src": "IMAGES/projets/ttm/feed_2.webp", "alt": "Image3" }
+    ]
   }
 ]
